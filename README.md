@@ -3,5 +3,5 @@ DevLOVE
 
 DevLOVEに関するもの
 
-[ここに綴って行く](https://github.com/kou-ishizaki/DevLOVE/wiki/感想をここに綴って行きます
+[ここに綴って行く](https://github.com/kou-ishizaki/DevLOVE/wiki/ジブンで振り返るメモを綴って行きます
 )
